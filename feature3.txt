@@ -1,1 +1,3 @@
 please always provide some meaningful content. don't hurt vs code
+
+use extensions well, they are awesome
